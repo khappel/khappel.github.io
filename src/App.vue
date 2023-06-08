@@ -1,13 +1,15 @@
 <template>
-  <card>
-    <template #title> Belgian Merit Program </template>
-    
-    <template #content>
+  <Toolbar>
+    <template #start>
+      <H1>Belgian Merit Program</H1>      
+    </template>
+    <template #center>
       <TabMenu :model="items" />
-    <router-view />   
-      </template>
-   
-  </card>
+    </template>
+  </Toolbar>
+
+  <router-view />
+
 </template>
 
 
@@ -16,21 +18,21 @@
 import { ref } from "vue";
 
 const items = ref([
-    {
-        label: 'Results',
-        icon: 'pi pi-fw pi-home',
-        to: '/'
-    },
-    {
-        label: 'Add Results',
-        icon: 'pi pi-fw pi-plus-circle',
-        to: '/addview'
-    },
-    {
-        label: 'Settings',
-        icon: 'pi pi-fw pi-cog',
-        to: '/test'
-    }
+  {
+    label: 'Results',
+    icon: 'pi pi-fw pi-home',
+    to: '/'
+  },
+  {
+    label: 'Add Results',
+    icon: 'pi pi-fw pi-plus-circle',
+    to: '/addview'
+  },
+  {
+    label: 'Settings',
+    icon: 'pi pi-fw pi-cog',
+    to: '/test'
+  }
 ]);
 
 </script>

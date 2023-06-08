@@ -1,4 +1,11 @@
 <template>
+    <Accordion :multiple="true" :activeIndex="setAccordianCount(showDataList.length)">
+                <AccordionTab v-for="show in showDataList" :key="show.show" :header="show.show">
+                    <div v-for="cls in show.classes">
+                        <PlacingComponent :ShowClass=cls.class :Placings=cls.placings />
+                    </div>
+                </AccordionTab>
+            </Accordion>
     <Card>
         <template #title>
             <!--<MultiSelect v-model="defaultShowSelected" :options="shows" optionLabel="show" placeholder="Select show(s)"
@@ -6,13 +13,7 @@
 
         </template>
         <template #content>            
-            <Accordion :multiple="true" :activeIndex="setAccordianCount(showDataList.length)">
-                <AccordionTab v-for="show in showDataList" :key="show.show" :header="show.show">
-                    <div v-for="cls in show.classes">
-                        <PlacingComponent :ShowClass=cls.class :Placings=cls.placings />
-                    </div>
-                </AccordionTab>
-            </Accordion>
+            
         </template>
     </Card>
 </template>
