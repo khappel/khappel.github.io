@@ -1,0 +1,78 @@
+[
+    {
+        "show": "Georgia National Fair",
+        "region": "State"
+    },
+    {
+        "show": "Idaho",
+        "region": "State"
+    },
+    {
+        "show": "Illinois State Fair",
+        "region": "State"
+    },
+    {
+        "show": "Indiana State Fair (National Belgian Show and National Belgian Futurity)",
+        "region": "State"
+    },
+    {
+        "show": "Iowa State Fair",
+        "region": "State"
+    },
+    {
+        "show": "Kansas State Fair",
+        "region": "State"
+    },
+    {
+        "show": "Keystone International Livestock Expo",
+        "region": "State"
+    },
+    {
+        "show": "Michigan Great Lakes International",
+        "region": "State"
+    },
+    {
+        "show": "Minnesota State Fair",
+        "region": "State"
+    },
+    {
+        "show": "Mississippi Valley Fair (Davenport)",
+        "region": "State"
+    },
+    {
+        "show": "Missouri State Fair",
+        "region": "State"
+    },
+    {
+        "show": "New York State Fair",
+        "region": "State"
+    },
+    {
+        "show": "North American International Livestock Expo",
+        "region": "State"
+    },
+    {
+        "show": "Ohio State Fair",
+        "region": "State"
+    },
+    {
+        "show": "South Dakota State Fair",
+        "region": "State"
+    },
+    {
+        "show": "West Virginia",
+        "region": "State"
+    },
+    {
+        "show": "Wisconsin State Fair",
+        "region": "State"
+    },
+    {
+        "show": "LaPorte Draft Horse Show (LaPorte, IN)",
+        "region": "Regional"
+    },
+    {
+        "show": "Wilmington Classic (Wilmington, OH)",
+        "region": "Regional"
+    }
+]

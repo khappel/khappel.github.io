@@ -1,0 +1,186 @@
+[
+    {
+        "show": "Georgia National Fair",
+        "horseCount": "45",
+        "classes": [
+            {
+                "class": "Stallions 4 & over",
+                "placings": [
+                    {
+                        "placing": 1,
+                        "registrationNumber": "S7000",
+                        "horseName": "T-Rex",
+                        "owner": "smith, sam",
+                        "sire": "tt",
+                        "dam": "ff",
+                        "ChampionshipPoints": 6,
+                        "placingPoints": 10
+                    },
+                    {
+                        "placing": 2,
+                        "registrationNumber": "S8803",
+                        "horseName": "Morgan",
+                        "owner": "sammy, sam",
+                        "sire": "mighty",
+                        "dam": "max",
+                        "ChampionshipPoints": 0,
+                        "placingPoints": 7
+                    }
+                ]
+            },
+            {
+                "class": "Stallions 3",
+                "placings": [
+                    {
+                        "placing": 1,
+                        "registrationNumber": "S7000",
+                        "horseName": "T-Rex",
+                        "owner": "smith, sam",
+                        "sire": "tt",
+                        "dam": "ff",
+                        "ChampionshipPoints": 6,
+                        "placingPoints": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "show": "Idaho",
+        "horseCount": "45",
+        "classes": [
+            {
+                "class": "Stallions 4 & over",
+                "placings": [
+                    {
+                        "placing": 1,
+                        "registrationNumber": "S7000",
+                        "horseName": "T-Rex",
+                        "owner": "smith, sam",
+                        "sire": "tt",
+                        "dam": "ff",
+                        "ChampionshipPoints": 6,
+                        "placingPoints": 10
+                    },
+                    {
+                        "placing": 2,
+                        "registrationNumber": "S8803",
+                        "horseName": "Morgan",
+                        "owner": "sammy, sam",
+                        "sire": "mighty",
+                        "dam": "max",
+                        "ChampionshipPoints": 0,
+                        "placingPoints": 7
+                    }
+                ]
+            },
+            {
+                "class": "Stallions 3",
+                "placings": [
+                    {
+                        "placing": 1,
+                        "registrationNumber": "S7000",
+                        "horseName": "T-Rex",
+                        "owner": "smith, sam",
+                        "sire": "tt",
+                        "dam": "ff",
+                        "ChampionshipPoints": 6,
+                        "placingPoints": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "show": "Illinois State Fair",
+        "horseCount": "45",
+        "classes": [
+            {
+                "class": "Stallions 4 & over",
+                "placings": [
+                    {
+                        "placing": 1,
+                        "registrationNumber": "S7000",
+                        "horseName": "T-Rex",
+                        "owner": "smith, sam",
+                        "sire": "tt",
+                        "dam": "ff",
+                        "ChampionshipPoints": 6,
+                        "placingPoints": 10
+                    },
+                    {
+                        "placing": 2,
+                        "registrationNumber": "S8803",
+                        "horseName": "Morgan",
+                        "owner": "sammy, sam",
+                        "sire": "mighty",
+                        "dam": "max",
+                        "ChampionshipPoints": 0,
+                        "placingPoints": 7
+                    }
+                ]
+            },
+            {
+                "class": "Stallions 3",
+                "placings": [
+                    {
+                        "placing": 1,
+                        "registrationNumber": "S7000",
+                        "horseName": "T-Rex",
+                        "owner": "smith, sam",
+                        "sire": "tt",
+                        "dam": "ff",
+                        "ChampionshipPoints": 6,
+                        "placingPoints": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "show": "Indiana State Fair (National Belgian Show and National Belgian Futurity)",
+        "horseCount": "45",
+        "classes": [
+            {
+                "class": "Stallions 4 & over",
+                "placings": [
+                    {
+                        "placing": 1,
+                        "registrationNumber": "S7000",
+                        "horseName": "T-Rex",
+                        "owner": "smith, sam",
+                        "sire": "tt",
+                        "dam": "ff",
+                        "ChampionshipPoints": 6,
+                        "placingPoints": 10
+                    },
+                    {
+                        "placing": 2,
+                        "registrationNumber": "S8803",
+                        "horseName": "Morgan",
+                        "owner": "sammy, sam",
+                        "sire": "mighty",
+                        "dam": "max",
+                        "ChampionshipPoints": 0,
+                        "placingPoints": 7
+                    }
+                ]
+            },
+            {
+                "class": "Stallions 3",
+                "placings": [
+                    {
+                        "placing": 1,
+                        "registrationNumber": "S7000",
+                        "horseName": "T-Rex",
+                        "owner": "smith, sam",
+                        "sire": "tt",
+                        "dam": "ff",
+                        "ChampionshipPoints": 6,
+                        "placingPoints": 10
+                    }
+                ]
+            }
+        ]
+    }
+]
